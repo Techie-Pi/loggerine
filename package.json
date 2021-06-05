@@ -1,5 +1,5 @@
 {
-  "name": "loggerine",
+  "name": "@techiepi/loggerine",
   "version": "0.1.0",
   "description": "🖋 A simple, reliable and easy to use logger",
   "main": "src/index.js",
