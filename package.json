@@ -1,0 +1,35 @@
+{
+  "name": "loggerine",
+  "version": "0.1.0",
+  "description": "🖋 A simple, reliable and easy to use logger",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests",
+    "build": "webpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techie-Pi/loggerine.git"
+  },
+  "browserslist": [
+    "defaults"
+  ],
+  "keywords": [],
+  "author": "Techie-Pi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Techie-Pi/loggerine/issues"
+  },
+  "homepage": "https://github.com/Techie-Pi/loggerine#readme",
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-plugin-jest": "^24.3.6",
+    "jest": "^27.0.3",
+    "webpack": "^5.38.1",
+    "webpack-bundle-analyzer": "^4.4.2",
+    "webpack-cli": "^4.7.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
